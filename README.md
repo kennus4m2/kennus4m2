@@ -1,4 +1,5 @@
 <!-- Animated Header with waving hand emoji -->
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" align="middle" alt="Night Coding Banner" width="100%"/>
 <h1 align="center" style="font-size: 3em;">
   Hello everybody, I'm kennus4m2! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 </h1>
