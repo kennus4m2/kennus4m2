@@ -7,7 +7,7 @@
   <!-- Animated gradient "BSCS Student" typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1500&color=F70000&background=0D1117&center=true&vCenter=true&width=450&lines=BSCS+Student" alt="Animated gradient typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=1A8CD8&center=true&vCenter=true&width=470&lines=Java+%26+C%2B%2B+Enthusiast;Online+Gamer+%7C+Tech+Explorer;Learning%2C+Coding%2C+Gaming" alt="Animated typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=1A8CD8&center=true&vCenter=true&width=470&lines=Python+Enthusiast;Online+Gamer+%7C+Tech+Explorer;Learning%2C+Coding%2C+Gaming" alt="Animated typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 👨‍🎓 About Me
 
 - 🎓 BSCS Student at **Sorsogon State University**
-- 💻 Passionate about **Java**
+- 💻 Exploring about **Python**
 - 🕹️ Online gamer & tech explorer
 - 🤝 Always eager to collaborate and learn
 
@@ -24,8 +24,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-FFDD00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Team%20Collaboration-00C853?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gaming-00B0FF?style=for-the-badge&logo=steam&logoColor=white"/>
@@ -44,7 +43,6 @@
   </a>
 </p>
 
-<!-- Large Profile Views Counter under Connect with Me -->
 <p align="center">
   <a href="https://github.com/kennus4m2">
     <img src="https://komarev.com/ghpvc/?username=kennus4m2&style=for-the-badge&color=F70000&label=PROFILE+VIEWS" alt="Profile Views"/>
