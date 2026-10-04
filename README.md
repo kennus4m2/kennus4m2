@@ -72,12 +72,12 @@
     <tr>
       <td>Student Developer</td>
       <td>Sorsogon State University</td>
-      <td>Built Python projects for coursework (edit this)</td>
+      <td>Built a DepEd Form 138-E class record system with Django</td>
     </tr>
     <tr>
       <td>Team Member</td>
-      <td>School group project</td>
-      <td>Worked with classmates on a shared codebase (edit this)</td>
+      <td>CS 313 Game Hub</td>
+      <td>Built the Reach for the Stars trivia game API with FastAPI and PostgreSQL</td>
     </tr>
     <tr>
       <td>Self-learner</td>
@@ -130,11 +130,11 @@
   <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/main/assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/main/assets/animated-flame-01.gif" width="16px" align="right"/>
   <h2> 👨‍💻 Projects </h2><br>
-  <a href="https://github.com/kennus4m2/YOUR-REPO-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kennus4m2&theme=radical&repo=YOUR-REPO-1" width="49%" alt="Project 1"/>
+  <a href="https://github.com/kennus4m2/form138e_django" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kennus4m2&theme=radical&repo=form138e_django" width="49%" alt="Form 138-E Django"/>
   </a>
-  <a href="https://github.com/kennus4m2/YOUR-REPO-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kennus4m2&theme=radical&repo=YOUR-REPO-2" width="49%" alt="Project 2"/>
+  <a href="https://github.com/kennus4m2/reach_for_the_stars_fixed" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kennus4m2&theme=radical&repo=reach_for_the_stars_fixed" width="49%" alt="Reach for the Stars"/>
   </a>
 </div>
 
