@@ -82,7 +82,7 @@
     <tr>
       <td>Self-learner</td>
       <td>Online platforms</td>
-      <td>Practiced problem solving on LeetCode / HackerRank (edit this)</td>
+      <td>Practiced problem solving on ... </td>
     </tr>
   </table>
 </div>
