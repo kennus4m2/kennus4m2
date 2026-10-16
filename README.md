@@ -125,11 +125,8 @@
   <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/main/assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/main/assets/animated-flame-01.gif" width="16px" align="right"/>
   <h2> 👨‍💻 Projects </h2><br>
-  <a href="https://github.com/kennus4m2/form138e_django" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kennus4m2&theme=radical&repo=form138e_django" width="49%" alt="Form 138-E Django"/>
-  </a>
-  <a href="https://github.com/kennus4m2/reach_for_the_stars_fixed" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kennus4m2&theme=radical&repo=reach_for_the_stars_fixed" width="49%" alt="Reach for the Stars"/>
+  <a href="https://github.com/kennus4m2/reach-for-the-stars-api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kennus4m2&theme=radical&repo=reach-for-the-stars-api" width="49%" alt="Reach For The Stars"/>
   </a>
 </div>
 
