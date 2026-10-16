@@ -67,17 +67,12 @@
     <tr>
       <td>Student Developer</td>
       <td>Sorsogon State University</td>
-      <td>Built a DepEd Form 138-E class record system with Django</td>
+      <td>Built a DepEd Form 138-E class record system with Django (amateur)</td>
     </tr>
     <tr>
       <td>Team Member</td>
       <td>CS 313 Game Hub</td>
-      <td>Built the Reach for the Stars trivia game API with FastAPI and PostgreSQL</td>
-    </tr>
-    <tr>
-      <td>Self-learner</td>
-      <td>Online platforms</td>
-      <td>Practiced problem solving on ... </td>
+      <td>Built the Reach for the Stars trivia game API with Node.js and PostgreSQL</td>
     </tr>
   </table>
 </div>
@@ -124,7 +119,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/main/assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/main/assets/animated-flame-01.gif" width="16px" align="right"/>
-  <h2> 👨‍💻 Projects </h2><br>
+  <h2> 💚 Project(s) 💚 </h2><br>
   <a href="https://github.com/kennus4m2/reach-for-the-stars-api" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kennus4m2&theme=radical&repo=reach-for-the-stars-api" width="49%" alt="Reach For The Stars"/>
   </a>
