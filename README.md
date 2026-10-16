@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/main/assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+kennus4m2+and+Welcome+to+my+Profile!" alt="Typing animation" width="80%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Nickson+and+Welcome+to+my+Profile!" alt="Typing animation" width="80%"/>
   <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/main/assets/animated-flame-01.gif" width="16px" align="right"/>
 </div>
 
@@ -18,7 +18,7 @@
 
 <h2 align="center"> Student 🎓 and passionate 🔥 about coding! </h2>
 
--   👨‍💻 I'm kennus4m2 👋, a BSCS student at **Sorsogon State University**, Philippines. <br><br>
+-   👨‍💻 I'm Nickson(kennus4m2) 👋, a BSCS student at **Sorsogon State University**, Philippines. <br><br>
 -   🌳 I'm currently exploring **Python**! <br><br>
 -   🎮 Online gamer and tech explorer. <br><br>
 -   🤝 Looking to network, collaborate, and make friends here! <br><br>
@@ -90,11 +90,11 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong> </h2>
 
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=py,git,github,vscode,html,css" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=py,git,github,vscode,ps,html,css,mysql,django " alt="skills logos" />
   <br>
 
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,django" alt="learning logos" />
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,js,postgres,express" alt="learning logos" />
   <br><br>
 
   <img src="https://img.shields.io/badge/Problem%20Solving-FFDD00?style=for-the-badge"/>
