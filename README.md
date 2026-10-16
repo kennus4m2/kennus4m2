@@ -19,15 +19,10 @@
 <h2 align="center"> Student 🎓 and passionate 🔥 about coding! </h2>
 
 -   👨‍💻 I'm kennus4m2 👋, a BSCS student at **Sorsogon State University**, Philippines. <br><br>
-
 -   🌳 I'm currently exploring **Python**! <br><br>
-
 -   🎮 Online gamer and tech explorer. <br><br>
-
 -   🤝 Looking to network, collaborate, and make friends here! <br><br>
-
 -   🎯 Goals: Build more projects and contribute to open source. <br><br>
-
 -   ☕ Interests: Coding, Gaming, and Technology. <br><br>
 
 <h2></h2>
